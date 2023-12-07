@@ -1,6 +1,6 @@
 <h1 align="center"> Привет! Меня зовут Руслан</h1>
 
-<table align="center" width="100%" height="500">
+<table align="center" width="100%">
   <tr>
     <td width="68%">
       <p align="center">
