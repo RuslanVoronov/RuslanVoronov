@@ -1,4 +1,4 @@
-<h1 align="center"> Привет! Меня зовут Руслна</h1>
+<h1 align="center"> Привет! Меня зовут Руслан</h1>
 
 <table align="center" width="100%" height="500">
   <tr>
@@ -9,7 +9,7 @@
 Пока имею некоторый опыт работы со следующими технологиями и инструментами:
 </p>
       <div align="center">     
-        HTML5 CSS3 JavaScript React Node.js Express.js MongoDB Webpack Git Figma
+        HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, Webpack, Git, Figma
       </div>  
         <br/>
     </td>
