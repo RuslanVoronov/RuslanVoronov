@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет! Меня зовут Руслан
+
+Я учусь на web-разработчика.
+Хочу стать экспертом во фронтенде,
+а потом и в бекенде.
+Пока имею некоторый опыт работы со следующими технологиями и инструментами:
+
+HTML5 CSS3 JavaScript React Node.js Express.js MongoDB Jest Webpack Git Figma
 
 <!--
 **RuslanVoronov/RuslanVoronov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
